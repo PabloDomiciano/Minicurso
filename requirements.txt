@@ -1,0 +1,18 @@
+# Dependências para o Minicurso de Selenium
+# Python 3.8+
+
+# Selenium WebDriver
+selenium>=4.15.0
+
+# Framework de testes (já vem com Python, mas listado para referência)
+# unittest está incluído na biblioteca padrão do Python
+
+# Opcional: WebDriver Manager para gerenciar drivers automaticamente
+webdriver-manager>=4.0.0
+
+# Opcional: Pytest como alternativa ao unittest
+pytest>=7.4.0
+pytest-html>=4.1.0
+
+# Opcional: Para relatórios mais detalhados
+pytest-cov>=4.1.0
